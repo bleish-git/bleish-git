@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SQL databases
+- 🔭 I’m currently working on SQL databases, python, django
 - 🌱 I’m currently learning REACT.js, software engineering, security
 
 
