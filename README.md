@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on SQL databases, python, django
 - 🌱 I’m currently learning REACT.js, software engineering, security
+- My gists on https://gist.github.com/
 
 
 <!--
