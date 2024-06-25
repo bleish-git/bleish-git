@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SQL databases, php, laravel
+- 🔭 I’m currently working on SQL databases, python3.10, django5
 - 🌱 I’m currently studying software engineering, security
 - My gists on https://gist.github.com/
 
