@@ -1,8 +1,9 @@
 ### Hi there 👋
-
+- ✨ I'm a self-taught and passionate developer
 - 🔭 I’m currently working on SQL databases, python3.10, django5
-- 🌱 I’m currently studying software engineering, security
-- My gists on https://gist.github.com/
+- :zany_face: I’m currently studying software engineering
+- :smiling_face_with_three_hearts: I love Open Source, linux, electronics, maths
+- ✨ My gists on https://gist.github.com/
 
 
 <!--
