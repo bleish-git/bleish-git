@@ -1,6 +1,7 @@
 ### Hi there 👋
 - ✨ I'm a self-taught and passionate developer
 - 🔭 I’m currently working on SQL databases, python3.10, django5
+- 🔭 I’m currently working on IoT,LoRa,ESP32
 - :zany_face: I’m currently studying software engineering
 - :smiling_face_with_three_hearts: I love Open Source, linux, electronics, maths
 - ✨ My incomplete gists on https://gist.github.com/bleish-git
